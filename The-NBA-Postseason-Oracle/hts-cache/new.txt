@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:46:23	635/635	---M-Z	200	added ('OK')	text/plain	etag:W/%22a9b-19c2446e198%22	https://www.nba.com/robots.txt		(from )
+16:46:25	496931/496931	---MCZ	200	added ('OK')	text/html	etag:%2213zjxogo1ulaodu%22	https://www.nba.com/	C:/My%20Web%20Sites/The-NBA-Postseason-Oracle/www.nba.com/index.html	(from )
